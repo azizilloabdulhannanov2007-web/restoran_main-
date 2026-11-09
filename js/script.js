@@ -1,4 +1,5 @@
 'use strict'
+import '../style.css'; // или просто '../style.css' в зависимости от того, где лежит script.js
 
 import classCard from './modules/class'
 import forms from './modules/forms'
